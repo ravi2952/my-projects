@@ -47,7 +47,10 @@
   .contentLeft p{
     padding-top: 20px;
     font-size: 16px;
-    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .contentLeft p span{
+    font-weight: 600;
   }
   .contentLeft h5{
     font-size: 25px;
@@ -63,6 +66,23 @@
   .contentDown button{
     background-color: #04bade;
     color: beige;
+  }
+
+  /*........................INTERNSHIPS.........................*/
+
+  .internships{
+    margin-top: 100px;
+  }
+  .internships img{
+    border-radius: 30px;
+  }
+  .internships p{
+    margin-top: 100px;
+    text-align: center;
+  }
+  .internships p span{
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
   /*......................FOOTER...................*/
